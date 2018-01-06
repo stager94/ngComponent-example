@@ -1,0 +1,43 @@
+{
+  "users":[
+    {
+      "id":153850214,
+      "first_name":"Марина",
+      "last_name":"Герняк",
+      "sounds":[
+        {
+          "title":"On My Way",
+          "author":"Reo Cragun",
+          "duration":202
+        },
+        {
+          "title":"двигай пипой",
+          "author":"Марина",
+          "duration":178
+        },
+        {
+          "title":"Believer (Originally Performed by Imagine Dragons)",
+          "author":"New Tribute Kings",
+          "duration":201
+        }
+      ]
+    },
+    {
+      "id":53421342,
+      "first_name":"Станислав",
+      "last_name":"Герняк",
+      "sounds":[
+        {
+          "title":"30",
+          "author":"Ларин",
+          "duration":160
+        },
+        {
+          "title":"Новогодняя 2018",
+          "author":"Дискотека Авария",
+          "duration":228
+        }
+      ]
+    }
+  ]
+}

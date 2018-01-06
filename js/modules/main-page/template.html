@@ -1,0 +1,14 @@
+<!-- <ul>
+  <li ng-repeat="sound in mainPageCtrl.sounds">{{sound.title}}</li>
+</ul> -->
+
+
+<table width="1000" ng-repeat="sound in mainPageCtrl.sounds" bgcolor="#eee">
+  <tr>
+    <td><b>{{sound.title}}</b></td>
+    <td rowspan="2" align="right">{{sound.duration}}</td>
+  </tr>
+  <tr>
+    <td>{{sound.author}}</td>
+  </tr>
+</table>
